@@ -13,8 +13,6 @@ from configparser import ConfigParser
 import pyperclip as pc
 import os
 
-# Testing stuff
-
 
 config = ConfigParser()
 config.read('config.ini')
