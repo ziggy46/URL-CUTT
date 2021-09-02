@@ -12,7 +12,7 @@ Just a simple desktop app written in Python for shortening links.
 5. Run the program.   
 `python main.py`
 
-## Coming Soon™ | Installation & Configuration (Method 2)
+## Installation & Configuration (Method 2)
 
 1. Register and account on https://cutt.ly and copy your API key.
 2. Download the setup.exe from the releases page and install it.
